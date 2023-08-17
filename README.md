@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **REACT JS**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, REACTJS, SQL, JSP, JDBC, SERVLET**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻Pursuing my B.Tech in IT from **Asansol Engineering College**
 
