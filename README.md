@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7QWqH9YU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7QWqH9YU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg)
 <h1 align="center">Hi 👋, I'm Chanchal Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="codding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
