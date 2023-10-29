@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal2028&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal2028" /> </p>
 
-- 🔭 I’m currently working on **REACT JS**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **MERN**
 
