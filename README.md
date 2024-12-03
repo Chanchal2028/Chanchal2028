@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻Pursuing my B.Tech in IT from **Asansol Engineering College**
+- 👨‍💻 Completed B.Tech in IT from **Asansol Engineering College**
 
 - 👯 I’m looking to collaborate on [[LinkedIn- Chanchal Mondal]](https://www.linkedin.com/in/chanchal2028/)
 
